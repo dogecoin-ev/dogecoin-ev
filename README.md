@@ -1,13 +1,20 @@
-# Dogecoin Core [DOGE, Ð]
+# Dogecoin EV
 
 ![Dogecoin](https://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
 
-[![Build Status](https://travis-ci.com/dogecoin/dogecoin.svg?branch=master)](https://travis-ci.com/dogecoin/dogecoin)
+[![Build Status](https://travis-ci.com/dogecoin-ev/dogecoin-ev.svg?branch=master)](https://travis-ci.com/dogecoin-ev/dogecoin-ev)
 
-Dogecoin is a cryptocurrency like Bitcoin, although it does not use SHA256 as
-its proof of work (POW). Taking development cues from Tenebrix and Litecoin,
-Dogecoin currently employs a simplified variant of scrypt.
-- **Website:** [dogecoin.com.](https://dogecoin.com)
+## What is Dogecoin EV?
+
+Dogecoin EV (Elon's Vision) is a cryptocurrency like Bitcoin, although it does
+not use SHA256 as its proof of work (POW) algorithm. Taking development cues
+from Tenebrix and Litecoin, Dogecoin EV currently employs a simplified variant
+of scrypt.
+
+Elon's Vision will deliver scalability and near-instant transaction speed to
+the Dogecoin ecosystem.
+
+- **Website:** [dogecoinev.org](https://dogecoinev.org)
 
 ## License – Much license ⚖️
 Dogecoin Core is released under the terms of the MIT license. See
